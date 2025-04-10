@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm <a href="https://github.com/Aeon234/" target="_blank">Alex Iukuridze</a> <img
+<h1 align="center">Hello there, I'm <a href="https://github.com/Aeon234/" target="_blank">Alex</a> <img
 src="https://github.com/aeon234/aeon234/raw/main/resources/images/Hello.gif" height="32" /></h1>
 
 <!--
@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeon234&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
