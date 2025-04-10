@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=lua,github,git,mongodb,js,nodejs,react,express,cs,dotnet,html,css,bootstrap,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,github,git,mongodb,js,nodejs,react,express,cs,dotnet,html,css,bootstrap,tailwind,nextjs,)](https://skillicons.dev)
 
 ### Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeon234&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
