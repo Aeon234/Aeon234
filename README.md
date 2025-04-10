@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeon234&theme=github-dark-dimmed&custom_title=Aeon%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Aeon's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon234&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aeon's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon234&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 📊 Github Stats
