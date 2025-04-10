@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,express,nodejs,mongodb,github,lua)](https://skillicons.dev)
 
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 ### Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeon234&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
