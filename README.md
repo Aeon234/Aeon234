@@ -1,4 +1,6 @@
 # Hi there 👋
+<h1 align="center">Hello there, I'm <a href="https://github.com/Aeon234/" target="_blank">Alex Iukuridze</a> <img
+src="https://github.com/aeon234/aeon234/raw/resources/images/Hello.gif" height="32" /></h1>
 
 <!--
 **Aeon234/Aeon234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
