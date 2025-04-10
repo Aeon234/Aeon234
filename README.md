@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Aeon's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon234&theme=github-dark-dimmed&custom_title=Aeon's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### 📊 Github Stats
+## 📈 My GitHub stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg)
