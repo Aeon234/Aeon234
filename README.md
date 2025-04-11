@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg)
+</a>
+<a>
 ![Most Used Languages](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg)
 </a>
   </p>
