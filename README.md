@@ -35,10 +35,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg" alt="Aeon's Streak">
   </p>
 </div>
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg)
-</a>
+
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d93fb&height=120&section=footer" alt="footer"/>
