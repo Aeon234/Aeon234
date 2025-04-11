@@ -31,13 +31,8 @@ Here are some ideas to get you started:
 ## 📈 My GitHub stats
 <div class="badges-githubstats">
   <p align="center">
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg)
-</a>
-<a>
-![Most Used Languages](https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg)
-</a>
+    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg" alt="Aeon's Stats" height="165">
+    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg" alt="Aeon's Streak" height="165">
   </p>
 </div>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
