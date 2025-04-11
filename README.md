@@ -19,16 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Main skills
+## Main skills
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,express,nodejs,mongodb,github,lua)](https://skillicons.dev)
+
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 
 ## 🌟 Featured Projects
 
 - **[Advanced Mythic Tracker](https://github.com/Aeon234/AdvancedMythicTracker)** ⭐: An addon for World of Warcraft that streamlines tracking various end-game content for players in a single window. Providing instant access to weekly best key levels and performances graph per dungeon, real-time tracking of current raid lockouts across all difficulties, party keystone information and a way to randomize which key to do next, and easy access to teleports for each dungeon once unlocked.
 - **[Ambrosia](https://github.com/Aeon234/Ambrosia)** 💫: An addon for World of Warcraft that brings a suite of Quality of Life features to the game, allowing the player to toggle each feature individually.
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ### Activity Graph
 [![Aeon's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon234&theme=github-dark-dimmed&custom_title=Aeon's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
