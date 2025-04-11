@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ## 📈 My GitHub stats
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg" alt="Aeon's Stats" height="165">
-    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg" alt="Aeon's Streak" height="165">
+    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg" alt="Aeon's Stats">
+    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg" alt="Aeon's Streak">
   </p>
 </div>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
