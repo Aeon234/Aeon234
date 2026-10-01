@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 🌟 Featured Projects
 
-- **[Advanced Mythic Tracker](https://github.com/Aeon234/AdvancedMythicTracker)** ⭐: An addon for World of Warcraft that streamlines tracking various end-game content for players in a single window. Providing instant access to weekly best key levels and performances graph per dungeon, real-time tracking of current raid lockouts across all difficulties, party keystone information and a way to randomize which key to do next, and easy access to teleports for each dungeon once unlocked.
-- **[Ambrosia](https://github.com/Aeon234/Ambrosia)** 💫: An addon for World of Warcraft that brings a suite of Quality of Life features to the game, allowing the player to toggle each feature individually.
+- **[Advanced Mythic Tracker](https://github.com/Aeon234/AdvancedMythicTracker)** ⭐: A Mythic+ dashboard and timer for World of Warcraft. The dashboard shows best key levels and runs per dungeon, Great Vault progress, your party's keystones, and dungeon teleports once unlocked. The timer tracks the run with a timer bar, enemy forces, objectives and deaths. [CurseForge](https://www.curseforge.com/wow/addons/advanced-mythic-tracker)
+- **[Levelbound](https://github.com/Aeon234/Levelbound)** 🆕: Experience and progress bars for World of Warcraft, on Retail and WoW: Forever. Shows rested and quest turn-in XP on the bar, XP per hour and time to level, and party XP markers for group members running the addon. It also tracks reputation, honor, pet XP, House Favor, Neighborhood Endeavors and the Trading Post, in a settings window with a live preview. [CurseForge](https://www.curseforge.com/wow/addons/levelbound)
 
 
 ### Activity Graph
