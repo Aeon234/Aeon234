@@ -36,12 +36,11 @@ Here are some ideas to get you started:
 ### Activity Graph
 [![Aeon's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon234&theme=github-dark-dimmed&custom_title=Aeon's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## 📈 My GitHub stats
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/overview.svg" alt="Aeon's Stats">
-    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg" alt="Aeon's Streak">
+    <img src="https://raw.githubusercontent.com/aeon234/github-stats-transparent/output/generated/languages.svg" alt="Aeon's Languages">
   </p>
 </div>
 
